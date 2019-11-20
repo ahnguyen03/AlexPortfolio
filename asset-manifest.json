@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ahnguyen03.github.io/AlexPortfolio/static/css/main.fbd295a8.chunk.css",
-    "main.js": "/ahnguyen03.github.io/AlexPortfolio/static/js/main.707dc06d.chunk.js",
-    "main.js.map": "/ahnguyen03.github.io/AlexPortfolio/static/js/main.707dc06d.chunk.js.map",
-    "runtime-main.js": "/ahnguyen03.github.io/AlexPortfolio/static/js/runtime-main.64906b08.js",
-    "runtime-main.js.map": "/ahnguyen03.github.io/AlexPortfolio/static/js/runtime-main.64906b08.js.map",
-    "static/js/2.d7574a01.chunk.js": "/ahnguyen03.github.io/AlexPortfolio/static/js/2.d7574a01.chunk.js",
-    "static/js/2.d7574a01.chunk.js.map": "/ahnguyen03.github.io/AlexPortfolio/static/js/2.d7574a01.chunk.js.map",
-    "index.html": "/ahnguyen03.github.io/AlexPortfolio/index.html",
-    "precache-manifest.225dbff9247093e69d2d5b2006896992.js": "/ahnguyen03.github.io/AlexPortfolio/precache-manifest.225dbff9247093e69d2d5b2006896992.js",
-    "service-worker.js": "/ahnguyen03.github.io/AlexPortfolio/service-worker.js",
-    "static/css/main.fbd295a8.chunk.css.map": "/ahnguyen03.github.io/AlexPortfolio/static/css/main.fbd295a8.chunk.css.map",
-    "static/media/Rocket_launch.png": "/ahnguyen03.github.io/AlexPortfolio/static/media/Rocket_launch.5206ed18.png",
-    "static/media/avataaars.png": "/ahnguyen03.github.io/AlexPortfolio/static/media/avataaars.356f2fa5.png",
-    "static/media/big_cloud.png": "/ahnguyen03.github.io/AlexPortfolio/static/media/big_cloud.8e162924.png",
-    "static/media/cloud-mist.png": "/ahnguyen03.github.io/AlexPortfolio/static/media/cloud-mist.e3db4f73.png",
-    "static/media/earth.png": "/ahnguyen03.github.io/AlexPortfolio/static/media/earth.5e914d70.png",
-    "static/media/moon.png": "/ahnguyen03.github.io/AlexPortfolio/static/media/moon.c84a923b.png",
-    "static/media/satalite.png": "/ahnguyen03.github.io/AlexPortfolio/static/media/satalite.6724750e.png"
+    "main.css": "/ahnguyen03.github.io/ahnguyen03.github.io/static/css/main.cda988b4.chunk.css",
+    "main.js": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/main.3d4fa0b3.chunk.js",
+    "main.js.map": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/main.3d4fa0b3.chunk.js.map",
+    "runtime-main.js": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/runtime-main.b38d764c.js",
+    "runtime-main.js.map": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/runtime-main.b38d764c.js.map",
+    "static/js/2.d7574a01.chunk.js": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/2.d7574a01.chunk.js",
+    "static/js/2.d7574a01.chunk.js.map": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/2.d7574a01.chunk.js.map",
+    "index.html": "/ahnguyen03.github.io/ahnguyen03.github.io/index.html",
+    "precache-manifest.059fbc12e7fe196f52508bad239a5977.js": "/ahnguyen03.github.io/ahnguyen03.github.io/precache-manifest.059fbc12e7fe196f52508bad239a5977.js",
+    "service-worker.js": "/ahnguyen03.github.io/ahnguyen03.github.io/service-worker.js",
+    "static/css/main.cda988b4.chunk.css.map": "/ahnguyen03.github.io/ahnguyen03.github.io/static/css/main.cda988b4.chunk.css.map",
+    "static/media/Rocket_launch.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/Rocket_launch.5206ed18.png",
+    "static/media/avataaars.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/avataaars.356f2fa5.png",
+    "static/media/big_cloud.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/big_cloud.8e162924.png",
+    "static/media/cloud-mist.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/cloud-mist.e3db4f73.png",
+    "static/media/earth.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/earth.5e914d70.png",
+    "static/media/moon.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/moon.c84a923b.png",
+    "static/media/satalite.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/satalite.6724750e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.64906b08.js",
+    "static/js/runtime-main.b38d764c.js",
     "static/js/2.d7574a01.chunk.js",
-    "static/css/main.fbd295a8.chunk.css",
-    "static/js/main.707dc06d.chunk.js"
+    "static/css/main.cda988b4.chunk.css",
+    "static/js/main.3d4fa0b3.chunk.js"
   ]
 }
