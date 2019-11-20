@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ahnguyen03.github.io/ahnguyen03.github.io/static/css/main.de05b88b.chunk.css",
+    "main.css": "/ahnguyen03.github.io/ahnguyen03.github.io/static/css/main.995fb738.chunk.css",
     "main.js": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/main.3d4fa0b3.chunk.js",
     "main.js.map": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/main.3d4fa0b3.chunk.js.map",
     "runtime-main.js": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/runtime-main.b38d764c.js",
@@ -8,9 +8,9 @@
     "static/js/2.d7574a01.chunk.js": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/2.d7574a01.chunk.js",
     "static/js/2.d7574a01.chunk.js.map": "/ahnguyen03.github.io/ahnguyen03.github.io/static/js/2.d7574a01.chunk.js.map",
     "index.html": "/ahnguyen03.github.io/ahnguyen03.github.io/index.html",
-    "precache-manifest.3915ca964c0de5f87e91a1172ce2786d.js": "/ahnguyen03.github.io/ahnguyen03.github.io/precache-manifest.3915ca964c0de5f87e91a1172ce2786d.js",
+    "precache-manifest.e6059bc4d0033cec6d90b764237b1a6c.js": "/ahnguyen03.github.io/ahnguyen03.github.io/precache-manifest.e6059bc4d0033cec6d90b764237b1a6c.js",
     "service-worker.js": "/ahnguyen03.github.io/ahnguyen03.github.io/service-worker.js",
-    "static/css/main.de05b88b.chunk.css.map": "/ahnguyen03.github.io/ahnguyen03.github.io/static/css/main.de05b88b.chunk.css.map",
+    "static/css/main.995fb738.chunk.css.map": "/ahnguyen03.github.io/ahnguyen03.github.io/static/css/main.995fb738.chunk.css.map",
     "static/media/Rocket_launch.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/Rocket_launch.5206ed18.png",
     "static/media/avataaars.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/avataaars.356f2fa5.png",
     "static/media/big_cloud.png": "/ahnguyen03.github.io/ahnguyen03.github.io/static/media/big_cloud.8e162924.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.b38d764c.js",
     "static/js/2.d7574a01.chunk.js",
-    "static/css/main.de05b88b.chunk.css",
+    "static/css/main.995fb738.chunk.css",
     "static/js/main.3d4fa0b3.chunk.js"
   ]
 }
